@@ -1,4 +1,10 @@
-### Hi there 👋
+### fangz
+
+fangz [it/its] is a cat, which is nice
+
+## working on
+
+an ncurses-based linguistic game (blacfell/lang)
 
 <!--
 **blacfell/blacfell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
