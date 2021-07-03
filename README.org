@@ -1,0 +1,9 @@
+* kitty fangz
+kitty fangz is a Cat, Online.
+** pronouns (order of preference but all are good)
+- it/its
+- nya/nyar
+- they/them
+** things i am doing
+- [[github:blacfell/lang][lang]] - a langauge text game
+- [[github:blacfell/dotfiles][dotfiles]] - my dotfiles
