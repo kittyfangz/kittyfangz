@@ -5,5 +5,5 @@ kitty fangz is a Cat, Online.
 - nya/nyar
 - they/them
 ** things i am doing
-- [[github:blacfell/lang][lang]] - a langauge text game
+- [[github:blacfell/sskk][sskk]] - a langauge text game
 - [[github:blacfell/dotfiles][dotfiles]] - my dotfiles
